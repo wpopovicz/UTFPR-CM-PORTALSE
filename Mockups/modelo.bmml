@@ -1,0 +1,15 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1026" measuredH="514" mockupW="743" mockupH="439">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="283" y="75" w="743" h="439" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.PortalSE.com.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="287" y="150" w="719" h="29" measuredW="719" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inicio%2C%20Oficinas%2C%20Agenda%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2CProf%BAwillian%2Csair%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1006" y="149" w="-1" h="341" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
