@@ -10,5 +10,5 @@ package br.com.utfpr.beans;
  */
 public class Escola {
     private int id;
-    private String nome;
+    private String nome,telefone;
 }
