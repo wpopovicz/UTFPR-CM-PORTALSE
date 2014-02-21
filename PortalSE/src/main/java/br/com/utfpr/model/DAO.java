@@ -4,11 +4,11 @@ import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 
-public class DAO<T> {
+public class Dao<T> {
 
     private Class<T> classe;
 
-    public DAO(Class classe) {
+    public Dao(Class classe) {
         this.classe = classe;
     }
 
