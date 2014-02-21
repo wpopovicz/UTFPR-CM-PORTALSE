@@ -15,7 +15,7 @@
         <table class="table table-bordered">
             <c:forEach items="${lista}" var="obj">
                 <tr>
-                    <td></td>
+                    <td>${obj.dataDeEncerramentoInscricao}</td>
                 </tr>
             </c:forEach>
         </table>

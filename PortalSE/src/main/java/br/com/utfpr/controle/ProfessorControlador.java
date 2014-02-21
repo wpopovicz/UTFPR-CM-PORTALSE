@@ -8,6 +8,8 @@ import br.com.utfpr.beans.Oficina;
 import br.com.utfpr.beans.Pessoa;
 import br.com.utfpr.model.HibernateDao;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServletRequest;
 
@@ -20,9 +22,15 @@ import javax.servlet.http.HttpServletRequest;
 public class ProfessorControlador extends SuperControlador {
     private HibernateDao hibernatedao = new HibernateDao();
     private Pessoa pessoa;
+    private Oficinas oficinas;
     @Override
     public String acaoPadrao(HttpServletRequest request) {
-        List oficinas = hibernatedao.list(Oficina.class);
+        List oficinas = null;
+        try {
+            oficinas = hibernatedao.list();       
+        } catch (Exception ex) {
+            Logger.getLogger(ProfessorControlador.class.getName()).log(Level.SEVERE, null, ex);
+        }
         request.setAttribute("lista", oficinas);
         return "listarOficinas.jsp";
     }
