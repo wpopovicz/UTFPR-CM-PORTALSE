@@ -4,11 +4,17 @@
  */
 package br.com.utfpr.beans;
 
+import java.io.Serializable;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
 /**
  *
  * @author willian
  */
-public class Escola {
+@Entity
+public class Escola implements Serializable{
+    @Id
     private int id;
     private String nome,telefone;
 }

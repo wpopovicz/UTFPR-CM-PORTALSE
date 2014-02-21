@@ -1,0 +1,11 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="660" measuredH="290" mockupW="200" mockupH="133">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Alert" x="460" y="157" w="-1" h="-1" measuredW="200" measuredH="133" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Oficinas%20Cadastrada%26bm%3BOficinas%20Cadastrada.bmml%26bm%3BOficinas%20Cadastrada.bmml%26bm%3BOficinas%20Cadastrada.bmml%2CinicioProfessor1%26bm%3BinicioProfessor1.bmml%26bm%3BinicioProfessor1.bmml%26bm%3BinicioProfessor1.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C83%2C95%2C123%22%20href%3D%22Oficinas%2520Cadastrada.bmml%22%20alt%3D%22Oficinas%20Cadastrada%22%20id%3D%220%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22105%2C83%2C190%2C123%22%20href%3D%22inicioProfessor1.bmml%22%20alt%3D%22inicioProfessor1%22%20id%3D%220%22/%3E%0A</map>
+        <text>Alert%0ADeseja%20cancelar%20essa%20oficina%20%21%21%0ANo%2C%20Yes</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

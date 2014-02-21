@@ -1,0 +1,11 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="616" measuredH="254" mockupW="200" mockupH="133">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Alert" x="416" y="121" w="-1" h="-1" measuredW="200" measuredH="133" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Oficinas%26bm%3BOficinas.bmml%26bm%3BOficinas.bmml%26bm%3BOficinas.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2250%2C83%2C150%2C123%22%20href%3D%22Oficinas.bmml%22%20alt%3D%22Oficinas%22%20id%3D%220%22/%3E%0A</map>
+        <text>Alert%0AVoc%EA%20j%E1%20se%20inscreveu%20nessa%20Oficina%20%21%21%0Aok</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
