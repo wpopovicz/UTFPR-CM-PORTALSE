@@ -98,4 +98,8 @@ public class DAO<T> {
         em.getTransaction().commit();
         em.close();
     }
+
+    public void Metodo() {
+    }
+
 }
