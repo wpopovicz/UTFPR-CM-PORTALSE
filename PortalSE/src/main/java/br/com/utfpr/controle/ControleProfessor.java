@@ -5,20 +5,20 @@
 package br.com.utfpr.controle;
 
 import br.com.utfpr.beans.Pessoa;
-import br.com.utfpr.model.DAO;
+import br.com.utfpr.model.Dao;
 import java.util.List;
 
 
 /**
  *
- * @author Acer
+ * @author Ronaldo
  */
 public class ControleProfessor {
     private Pessoa pessoa;
-    private DAO<Pessoa> dao;
+    private Dao<Pessoa> dao;
 
        public ControleProfessor(){
-        this.dao = new DAO(Pessoa.class);
+        this.dao = new Dao(Pessoa.class);
         this.pessoa = new Pessoa();
     }
     
@@ -30,11 +30,11 @@ public class ControleProfessor {
         this.pessoa = cliente;
     }
 
-    public DAO getClienteDao() {
+    public Dao getClienteDao() {
         return dao;
     }
 
-    public void setClienteDao(DAO dao) {
+    public void setClienteDao(Dao dao) {
         this.dao = dao;
     }
     
@@ -54,8 +54,7 @@ public class ControleProfessor {
     }
     public void update(Pessoa pessoa){
         this.dao.update(pessoa);
-    }
-    
+    }  
     
     public void remove(Pessoa pessoa){
         this.dao.remove(pessoa);

@@ -11,7 +11,7 @@ import javax.persistence.Persistence;
  */
 public class JPAUtil {
 
-    private static EntityManagerFactory emf = Persistence.createEntityManagerFactory("TelaPU");
+    private static final EntityManagerFactory emf = Persistence.createEntityManagerFactory("Portal");
 
     public EntityManager getEntityManager() {
         return emf.createEntityManager();
