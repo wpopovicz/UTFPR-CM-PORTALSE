@@ -17,7 +17,7 @@ import javax.persistence.ManyToMany;
  * @author willian
  */
 @Entity
-public class Pessoa implements Serializable {
+public class Professor implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -38,7 +38,7 @@ public class Pessoa implements Serializable {
     };
     private Expediente expediente;
 
-    public Pessoa() {
+    public Professor() {
     }
 
     public List<Oficina> getOficinas() {

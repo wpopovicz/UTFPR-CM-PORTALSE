@@ -4,7 +4,7 @@
  */
 package br.com.utfpr.controle;
 
-import br.com.utfpr.beans.Pessoa;
+import br.com.utfpr.beans.Professor;
 import br.com.utfpr.model.Dao;
 import java.util.List;
 
@@ -14,32 +14,32 @@ import java.util.List;
  * @author Ronaldo
  */
 public class ControleProfessor {
-    private Pessoa pessoa;
-    private Dao<Pessoa> dao;
+    private Professor pessoa;
+    private Dao<Professor> dao;
 
        public ControleProfessor(){
-        this.dao = new Dao(Pessoa.class);
-        this.pessoa = new Pessoa();
+        this.dao = new Dao(Professor.class);
+        this.pessoa = new Professor();
     }
     
-    public Pessoa getCliente() {
+    public Professor getProfessor() {
         return pessoa;
     }
 
-    public void setCliente(Pessoa cliente) {
-        this.pessoa = cliente;
+    public void setProfessor(Professor professor) {
+        this.pessoa = professor;
     }
 
-    public Dao getClienteDao() {
+    public Dao getProfessorDao() {
         return dao;
     }
 
-    public void setClienteDao(Dao dao) {
+    public void setProfessorDao(Dao dao) {
         this.dao = dao;
     }
     
     
-    public Pessoa buscarPorId(long id){
+    public Professor buscarPorId(long id){
         return this.dao.buscaPorId(id);
     }
     
@@ -49,14 +49,14 @@ public class ControleProfessor {
     }  
     
     
-    public void adiciona(Pessoa pessoa){
-        this.dao.adiciona(pessoa);
+    public void adiciona(Professor professor){
+        this.dao.adiciona(professor);
     }
-    public void update(Pessoa pessoa){
-        this.dao.update(pessoa);
+    public void update(Professor professor){
+        this.dao.update(professor);
     }  
     
-    public void remove(Pessoa pessoa){
+    public void remove(Professor professor){
         this.dao.remove(pessoa);
     }    
      public void removePorId(long id){

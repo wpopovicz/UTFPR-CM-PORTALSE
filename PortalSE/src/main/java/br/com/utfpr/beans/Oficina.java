@@ -31,7 +31,7 @@ public class Oficina implements Serializable{
     private Supervisor supervisor;
     
     @ManyToMany
-    private List<Pessoa> pessoas;   
+    private List<Professor> pessoas;   
     
     @OneToMany(mappedBy = "oficina")
     private List<Chamada> chamada;
@@ -108,11 +108,11 @@ public class Oficina implements Serializable{
         this.supervisor = supervisor;
     }
 
-    public List<Pessoa> getPessoas() {
+    public List<Professor> getPessoas() {
         return pessoas;
     }
 
-    public void setPessoas(List<Pessoa> pessoas) {
+    public void setPessoas(List<Professor> pessoas) {
         this.pessoas = pessoas;
     }
 
