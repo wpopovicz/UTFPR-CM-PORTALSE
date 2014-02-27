@@ -119,14 +119,14 @@
         <text>15/03/2014</text>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="330" y="390" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="330" y="390" w="-1" h="-1" measuredW="220" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Rua%3A</text>
+        <text>Av.%20Comendador%20Norberto%20Marcondes</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="330" y="411" w="-1" h="-1" measuredW="18" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="329" y="411" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>N%BA%3A</text>
+        <text>N%BA%3A%201643</text>
       </controlProperties>
     </control>
     <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="329" y="432" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
@@ -134,34 +134,39 @@
         <text>Campo%20Mour%E3o%20-%20PR</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="593" y="390" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Rua%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="593" y="411" w="-1" h="-1" measuredW="18" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>N%BA%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="593" y="432" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="593" y="432" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Campo%20Mour%E3o%20-%20PR</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="847" y="432" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="847" y="432" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Campo%20Mour%E3o%20-%20PR</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="847" y="411" w="-1" h="-1" measuredW="18" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="593" y="411" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>N%BA%3A</text>
+        <text>N%BA%3A%20115</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="847" y="390" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="593" y="390" w="-1" h="-1" measuredW="135" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Rua%3A</text>
+        <text>Rua%20das%20Samambaias%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="847" y="390" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Av.%20Jo%E3o%20Bento</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="847" y="411" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>N%BA%3A%202020</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="454" y="462" w="-1" h="-1" measuredW="393" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layout%20com%20Balsamiq%20Mockups%20Editado%20por%20Willian%20Lopes%20Popovicz</text>
       </controlProperties>
     </control>
   </controls>

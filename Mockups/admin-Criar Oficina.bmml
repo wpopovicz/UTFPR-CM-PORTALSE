@@ -1,0 +1,104 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1026" measuredH="514" mockupW="743" mockupH="439">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="283" y="75" w="743" h="439" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.PortalSE.com.br/admin</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="287" y="150" w="-1" h="-1" measuredW="726" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>admin-Inicio%26bm%3Badmin-Inicio.bmml%26bm%3Badmin-Inicio.bmml%26bm%3Badmin-Inicio.bmml%2Cadmin-Oficinas%26bm%3Badmin-Oficinas.bmml%26bm%3Badmin-Oficinas.bmml%26bm%3Badmin-Oficinas.bmml%2Cadmin-Criar%20Oficina%26bm%3Badmin-Criar%20Oficina.bmml%26bm%3Badmin-Criar%20Oficina.bmml%26bm%3Badmin-Criar%20Oficina.bmml%2Cadmin-Fazer%20chamada%26bm%3Badmin-Fazer%20chamada.bmml%26bm%3Badmin-Fazer%20chamada.bmml%26bm%3Badmin-Fazer%20chamada.bmml%2C%2C%2CLogin%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C85%2C63%2C98%22%20href%3D%22admin-Inicio.bmml%22%20alt%3D%22admin-Inicio%22%20id%3D%221%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2272%2C85%2C130%2C98%22%20href%3D%22admin-Oficinas.bmml%22%20alt%3D%22admin-Oficinas%22%20id%3D%221%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22139%2C85%2C224%2C98%22%20href%3D%22admin-Criar%2520Oficina.bmml%22%20alt%3D%22admin-Criar%20Oficina%22%20id%3D%221%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22233%2C85%2C363%2C98%22%20href%3D%22admin-Fazer%2520chamada.bmml%22%20alt%3D%22admin-Fazer%20chamada%22%20id%3D%221%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22671%2C85%2C703%2C98%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%221%22/%3E%0A</map>
+        <selectedIndex>2</selectedIndex>
+        <text>Inicio%2C%20Oficinas%2CCriar%20Oficina%2CChamada%20da%20Oficina%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2Cadmin%2Csair%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1006" y="149" w="-1" h="341" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>0</value>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="376" y="257" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Palestrante%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="376" y="291" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Local%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="376" y="330" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hor%E1rio%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::SubTitle" x="401" y="179" w="-1" h="-1" measuredW="147" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20Criar%20Oficina</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="283" y="211" w="721" h="-1" measuredW="100" measuredH="10" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Button" x="376" y="428" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>admin-Alertcriaroficina%26bm%3Badmin-Alertcriaroficina.bmml%26bm%3Badmin-Alertcriaroficina.bmml%26bm%3Badmin-Alertcriaroficina.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C353%2C153%2C380%22%20href%3D%22admin-Alertcriaroficina.bmml%22%20alt%3D%22admin-Alertcriaroficina%22%20id%3D%2244%22/%3E</map>
+        <text>Salvar</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Button" x="446" y="428" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <href>admin-Inicio%26bm%3Badmin-Inicio.bmml%26bm%3Badmin-Inicio.bmml%26bm%3Badmin-Inicio.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22163%2C353%2C240%2C380%22%20href%3D%22admin-Inicio.bmml%22%20alt%3D%22admin-Inicio%22%20id%3D%2245%22/%3E</map>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="376" y="222" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nome%20do%20palestra%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextInput" x="499" y="221" w="324" h="-1" measuredW="79" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextInput" x="499" y="254" w="324" h="-1" measuredW="79" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::TextInput" x="499" y="288" w="324" h="-1" measuredW="79" measuredH="26" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::TextInput" x="498" y="325" w="326" h="-1" measuredW="79" measuredH="26" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="376" y="366" w="-1" h="-1" measuredW="223" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Data%20de%20encerramento%20para%20inscri%E7%E3o%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="376" y="387" w="-1" h="-1" measuredW="132" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Data%20do%20dia%20do%20evento%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::DateChooser" x="621" y="364" w="-1" h="-1" measuredW="90" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::DateChooser" x="518" y="385" w="-1" h="-1" measuredW="90" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

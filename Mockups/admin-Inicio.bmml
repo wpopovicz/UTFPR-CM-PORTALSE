@@ -1,0 +1,75 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1022" measuredH="514" mockupW="743" mockupH="439">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="279" y="75" w="743" h="439" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.PortalSE.com.br/admin</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="849" y="183" w="149" h="107" measuredW="173" measuredH="142" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./imagem/iconi%20secretaria%20da%20educacao.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="294" y="183" w="134" h="106" measuredW="173" measuredH="143" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./imagem/inconi%20de%20campo%20mourao.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="511" y="198" w="-1" h="-1" measuredW="323" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Munic%EDpio%20de%20Campo%20Mour%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="526" y="238" w="-1" h="-1" measuredW="278" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Secret%E1ria%20da%20Educa%E7%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::MenuBar" x="279" y="147" w="739" h="29" measuredW="733" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>admin-Inicio%26bm%3Badmin-Inicio.bmml%26bm%3Badmin-Inicio.bmml%26bm%3Badmin-Inicio.bmml%2Cadmin-Oficinas%26bm%3Badmin-Oficinas.bmml%26bm%3Badmin-Oficinas.bmml%26bm%3Badmin-Oficinas.bmml%2Cadmin-Criar%20Oficina%26bm%3Badmin-Criar%20Oficina.bmml%26bm%3Badmin-Criar%20Oficina.bmml%26bm%3Badmin-Criar%20Oficina.bmml%2Cadmin-Fazer%20chamada%26bm%3Badmin-Fazer%20chamada.bmml%26bm%3Badmin-Fazer%20chamada.bmml%26bm%3Badmin-Fazer%20chamada.bmml%2C%2C%2CLogin%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2218%2C82%2C59%2C95%22%20href%3D%22admin-Inicio.bmml%22%20alt%3D%22admin-Inicio%22%20id%3D%2210%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2268%2C82%2C126%2C95%22%20href%3D%22admin-Oficinas.bmml%22%20alt%3D%22admin-Oficinas%22%20id%3D%2210%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22135%2C82%2C220%2C95%22%20href%3D%22admin-Criar%2520Oficina.bmml%22%20alt%3D%22admin-Criar%20Oficina%22%20id%3D%2210%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22229%2C82%2C359%2C95%22%20href%3D%22admin-Fazer%2520chamada.bmml%22%20alt%3D%22admin-Fazer%20chamada%22%20id%3D%2210%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22674%2C82%2C706%2C95%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%2210%22/%3E%0A</map>
+        <selectedIndex>0</selectedIndex>
+        <text>Inicio%2C%20Oficinas%2CCriar%20Oficina%2CChamada%20da%20Oficina%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2Cadmin%2Csair%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::FieldSet" x="294" y="316" w="696" h="92" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Adiciona%20ou%20excluir%20usu%E1ro</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="356" y="344" w="258" h="-1" measuredW="79" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="313" y="344" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CPF%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="772" y="341" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>Adicionar</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="884" y="341" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Excluir</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="454" y="458" w="-1" h="-1" measuredW="393" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layout%20com%20Balsamiq%20Mockups%20Editado%20por%20Willian%20Lopes%20Popovicz</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

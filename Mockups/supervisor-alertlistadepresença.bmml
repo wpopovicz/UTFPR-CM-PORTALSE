@@ -1,0 +1,11 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="696" measuredH="261" mockupW="200" mockupH="133">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Alert" x="496" y="128" w="-1" h="-1" measuredW="200" measuredH="133" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>supervisor-FazendoChamada%26bm%3Bsupervisor-FazendoChamada.bmml%26bm%3Bsupervisor-FazendoChamada.bmml%26bm%3Bsupervisor-FazendoChamada.bmml%2Csupervisor-FazerChamada%26bm%3Bsupervisor-FazerChamada.bmml%26bm%3Bsupervisor-FazerChamada.bmml%26bm%3Bsupervisor-FazerChamada.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C83%2C95%2C123%22%20href%3D%22supervisor-FazendoChamada.bmml%22%20alt%3D%22supervisor-FazendoChamada%22%20id%3D%220%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22105%2C83%2C190%2C123%22%20href%3D%22supervisor-FazerChamada.bmml%22%20alt%3D%22supervisor-FazerChamada%22%20id%3D%220%22/%3E%0A</map>
+        <text>Alert%0ADeseja%20realmente%20salvar%20lista%20de%20presen%E7a%20%3F%0ANo%2C%20Yes</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

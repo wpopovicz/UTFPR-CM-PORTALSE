@@ -21,9 +21,15 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="home.jsp">Home</a></li>
-                        <li><a href="listarOficina.jsp">Listar Oficina</a></li>
-                        <li><a href="oficinaCadastrada.jsp">Oficina Cadastrada</a></li>
-                        <li><a href="historico.jsp">Histórico</a></li>                     
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Oficina <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Listar</a></li>
+                                <li><a href="#">Criar</a></li>
+                                <li class="divider"></li>
+                                <li><a href="#">Chamada da Oficina</a></li>
+                            </ul>
+                        </li>                             
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="login.jsp">sair</a></li>  

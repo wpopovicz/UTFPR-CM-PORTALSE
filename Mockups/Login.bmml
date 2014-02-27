@@ -12,7 +12,7 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="310" y="191" w="149" h="107" measuredW="173" measuredH="143" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../imagem/inconi%2520de%2520campo%2520mourao.jpg</src>
+        <src>./imagem/inconi%20de%20campo%20mourao.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -38,7 +38,7 @@
     </control>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="868" y="191" w="134" h="106" measuredW="173" measuredH="142" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../imagem/iconi%2520secretaria%2520da%2520educacao.png</src>
+        <src>./imagem/iconi%20secretaria%20da%20educacao.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -77,11 +77,15 @@
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="1117" y="87" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>supervisor-Inicio%26bm%3Bsupervisor-Inicio.bmml%26bm%3Bsupervisor-Inicio.bmml%26bm%3Bsupervisor-Inicio.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22838%2C12%2C895%2C39%22%20href%3D%22supervisor-Inicio.bmml%22%20alt%3D%22supervisor-Inicio%22%20id%3D%2213%22/%3E</map>
         <text>Logar</text>
       </controlProperties>
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="1160" y="159" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>admin-Inicio%26bm%3Badmin-Inicio.bmml%26bm%3Badmin-Inicio.bmml%26bm%3Badmin-Inicio.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22881%2C84%2C938%2C111%22%20href%3D%22admin-Inicio.bmml%22%20alt%3D%22admin-Inicio%22%20id%3D%2214%22/%3E</map>
         <text>Logar</text>
       </controlProperties>
     </control>

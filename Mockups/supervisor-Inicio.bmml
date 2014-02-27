@@ -1,0 +1,108 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1022" measuredH="514" mockupW="743" mockupH="439">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="279" y="75" w="743" h="439" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.PortalSE.com.br/supervisor</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="849" y="183" w="149" h="107" measuredW="173" measuredH="142" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./imagem/iconi%2520secretaria%2520da%2520educacao.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="294" y="183" w="134" h="106" measuredW="173" measuredH="143" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./imagem/inconi%2520de%2520campo%2520mourao.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="489" y="198" w="-1" h="-1" measuredW="323" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Munic%EDpio%20de%20Campo%20Mour%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="511" y="237" w="-1" h="-1" measuredW="278" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Secret%E1ria%20da%20Educa%E7%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::MenuBar" x="279" y="147" w="739" h="29" measuredW="738" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>supervisor-Inicio%26bm%3Bsupervisor-Inicio.bmml%26bm%3Bsupervisor-Inicio.bmml%26bm%3Bsupervisor-Inicio.bmml%2Csupervisor-Oficinas%26bm%3Bsupervisor-Oficinas.bmml%26bm%3Bsupervisor-Oficinas.bmml%26bm%3Bsupervisor-Oficinas.bmml%2Csupervisor-CriarOficina%26bm%3Bsupervisor-CriarOficina.bmml%26bm%3Bsupervisor-CriarOficina.bmml%26bm%3Bsupervisor-CriarOficina.bmml%2Csupervisor-FazerChamada%26bm%3Bsupervisor-FazerChamada.bmml%26bm%3Bsupervisor-FazerChamada.bmml%26bm%3Bsupervisor-FazerChamada.bmml%2C%2C%2CLogin%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2218%2C82%2C59%2C95%22%20href%3D%22supervisor-Inicio.bmml%22%20alt%3D%22supervisor-Inicio%22%20id%3D%2210%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2268%2C82%2C126%2C95%22%20href%3D%22supervisor-Oficinas.bmml%22%20alt%3D%22supervisor-Oficinas%22%20id%3D%2210%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22135%2C82%2C220%2C95%22%20href%3D%22supervisor-CriarOficina.bmml%22%20alt%3D%22supervisor-CriarOficina%22%20id%3D%2210%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22229%2C82%2C359%2C95%22%20href%3D%22supervisor-FazerChamada.bmml%22%20alt%3D%22supervisor-FazerChamada%22%20id%3D%2210%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22679%2C82%2C711%2C95%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%2210%22/%3E%0A</map>
+        <selectedIndex>0</selectedIndex>
+        <text>Inicio%2C%20Oficinas%2CCriar%20Oficina%2CChamada%20da%20Oficina%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2Csupervisor%2Csair%2C</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="454" y="462" w="-1" h="-1" measuredW="393" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layout%20com%20Balsamiq%20Mockups%20Editado%20por%20Willian%20Lopes%20Popovicz</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::RoundButton" x="615" y="351" w="66" h="32" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>IMAPE</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::RoundButton" x="347" y="351" w="82" h="32" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SECED</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::RoundButton" x="858" y="351" w="75" h="32" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SESC</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="330" y="390" w="-1" h="-1" measuredW="220" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Av.%20Comendador%20Norberto%20Marcondes</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="329" y="411" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>N%BA%3A%201643</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="329" y="432" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Campo%20Mour%E3o%20-%20PR</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="593" y="432" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Campo%20Mour%E3o%20-%20PR</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="847" y="432" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Campo%20Mour%E3o%20-%20PR</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="593" y="411" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>N%BA%3A%20115</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="593" y="390" w="-1" h="-1" measuredW="135" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rua%20das%20Samambaias%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="847" y="390" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Av.%20Jo%E3o%20Bento</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="847" y="411" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>N%BA%3A%202020</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

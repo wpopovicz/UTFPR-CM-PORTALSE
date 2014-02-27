@@ -35,7 +35,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="item active">
-                    <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:First slide" alt="First slide">
+                    <img data-src="holder.js/900x500/#777:#7a7a7a/text:First slide" alt="First slide">
                     <div class="container">
                         <div class="carousel-caption">
                             <c:forEach items="${listaOficina}" var="obj">
@@ -113,9 +113,6 @@
                 interval: 2000
                 })
             </script>
-            <script>
-                        $ ("# myCarousel ' ). on ( 'slide.bs.carousel' ,  função  ()  { 
-                })
-            </script>
+
     </body>
 </html>
