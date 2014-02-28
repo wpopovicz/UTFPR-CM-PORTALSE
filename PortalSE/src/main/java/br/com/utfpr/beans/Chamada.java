@@ -19,7 +19,7 @@ import javax.persistence.ManyToOne;
 public class Chamada implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long ID;
+    private Long Id;
     @ManyToOne
     private Oficina oficina;
     public enum EstadoChamada {PRESENTE, AUSENTE, ATESTADO};
@@ -46,11 +46,11 @@ public class Chamada implements Serializable {
     
     
     public Long getID() {
-        return ID;
+        return Id;
     }
 
     public void setID(Long ID) {
-        this.ID = ID;
+        this.Id = ID;
     }
     
 }

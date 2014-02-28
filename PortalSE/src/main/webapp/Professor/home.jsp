@@ -27,6 +27,8 @@
 
         <jsp:include page="includes/menu.jsp" />
 
+        
+        
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>

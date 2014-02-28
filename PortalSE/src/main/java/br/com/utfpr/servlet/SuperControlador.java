@@ -6,9 +6,9 @@
 
 package br.com.utfpr.servlet;
 
-import br.com.utfpr.controle.ControleProfessor;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.lang.reflect.Method;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -17,10 +17,10 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Carlos
+ * @author rafael
  */
-@WebServlet(name = "Login", urlPatterns = {"/Login"})
-public class Login extends HttpServlet {
+//@WebServlet(name = "SuperControlador", urlPatterns = {"/SuperControlador"})
+public abstract class SuperControlador extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -33,23 +33,29 @@ public class Login extends HttpServlet {
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+        
         response.setContentType("text/html;charset=UTF-8");
-        PrintWriter out = response.getWriter();
-        try {
-            /* TODO output your page here. You may use following sample code. */
-            out.println("<!DOCTYPE html>");
-            out.println("<html>");
-            out.println("<head>");
-            out.println("<title>Servlet Login</title>");            
-            out.println("</head>");
-            out.println("<body>");
-            out.println("<h1>Servlet Login at " + request.getContextPath() + "</h1>");
-            out.println("</body>");
-            out.println("</html>");
-        } finally {
-            out.close();
+        
+        String acao = request.getParameter("acao");
+        String proximaPagina = "index.jsp";
+        
+        if (acao == null) {
+            proximaPagina = acaoPadrao(request);
+        } else {
+            try {
+                Class estaClasse = this.getClass();
+                Method metodo = estaClasse.getDeclaredMethod(acao, HttpServletRequest.class);
+                proximaPagina=(String) metodo.invoke(this, request);
+            } catch (Exception ex) {
+                ex.printStackTrace();
+            }
         }
+        
+        request.getRequestDispatcher(proximaPagina).forward(request, response);
+        
     }
+    
+    public abstract String acaoPadrao(HttpServletRequest request);
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
     /**
@@ -77,14 +83,7 @@ public class Login extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        ControleProfessor cp = new ControleProfessor();
-        cp.getProfessor().setNome(request.getParameter("nome"));
-        cp.getProfessor().setCpf(request.getParameter("cpf"));
-        cp.getProfessor().setEmail(request.getParameter("email"));
-        cp.getProfessor().setSenha(request.getParameter("senha"));
-        cp.adiciona(cp.getProfessor());
-        request.getSession(true).setAttribute("professor", cp.getProfessor());        
-        response.sendRedirect("Professor/home.jsp");        
+        processRequest(request, response);
     }
 
     /**
