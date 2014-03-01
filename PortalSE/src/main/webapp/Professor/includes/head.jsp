@@ -18,5 +18,6 @@
 <link href="../dist/css/bootstrap.min.css" rel="stylesheet">
 <link href="../dist/css/bootstrap.css" rel="stylesheet">
 <link href="../dist/css/bootstrap-theme.css" rel="stylesheet">
+<script type="text/javascript" src="../dist/js/imsky/holder.js"></script>
 <!-- Custom styles for this template -->
 <link href="css/custom.css" rel="stylesheet">
